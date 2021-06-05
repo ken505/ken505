@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🧑🏻‍💻 This is my personal repository.
 ### 🌱 I’m currently learning React, Next.js, Tailwindcss, Firebase.
 ### 📫 How to reach me: Twitter DM.
 
