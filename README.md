@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I’m currently learning React, Next.js, Tailwindcss, Firebase.
+### 📫 How to reach me: Twitter DM.
 
 <!--
 **ken505/ken505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
