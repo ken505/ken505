@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🧑🏻‍💻 This is my personal repository.
-### 🌱 I’m currently learning React, Next.js, Tailwindcss, Firebase.
+### 🌱 I’m currently learning Next.js, supabase, Tailwindcss, Firebase.
 ### 📫 How to reach me: Twitter DM.
 
 <!--
