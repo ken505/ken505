@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://user-images.githubusercontent.com/68226398/125245188-38254e80-e32b-11eb-8185-fb96b56f6811.gif" width="44px">
+### Hi there <img src="https://user-images.githubusercontent.com/68226398/125245188-38254e80-e32b-11eb-8185-fb96b56f6811.gif" width="44px"> I'm Ken !
 ### 🧑🏻‍💻 This is my personal repository.
 ### 🌱 I’m currently learning Next.js, supabase, Tailwindcss, Firebase.
 ### 📫 How to reach me: Twitter DM.
